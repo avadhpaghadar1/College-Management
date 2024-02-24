@@ -1,0 +1,186 @@
+.menu {
+    background-color: #379FD9;
+    height: 66px;
+    width: 100%;
+    display: inline-flex;
+    position: sticky;
+    top: 0px;
+}
+.menu_item {
+    color: white;
+    margin-bottom: 20px; 
+}
+.menu ul
+{
+    margin-left: 770px;
+    margin-top: 10px;
+}
+.menu img 
+{
+    height: 60px;
+    width: 150px;
+    margin-left: 50px;
+}
+.head
+{
+    background-image: url("../Photos/bus2.jpg");
+    background-size: 100% 100%;
+    height: 70vh;
+    width: auto;
+}
+.center
+{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.center u
+{
+    text-decoration-color: #379FD9;
+}
+.center p
+{
+    width: 70vw;
+}
+.center2
+{
+    display: flex;
+}
+.side_left
+{
+    width: 50vw;
+}
+.side_left table
+{
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.table
+{
+    width: 30vw;
+    height: auto;
+    margin-top: 50px;
+    text-align: center;
+    margin: 0 auto;
+}
+.table h4
+{
+    border: 0px;
+}
+.table,td,th
+{
+    border: 1px solid black;
+}
+.table th
+{
+    background-color: #379FD9;
+}
+.side_right
+{
+    margin-top: 150px;
+}
+.in 
+{
+    margin: 50px;
+    width: 30vw;
+}
+.in2
+{
+    width: 400px;
+    height: 50px;
+    background-color: gainsboro;
+    border: 1px solid black;
+}
+.button
+{
+    margin-left: 45px; 
+    
+}
+.button2
+{
+    margin: 0 auto;
+    background-color: #379FD9;
+    color: white;
+    border: 0px;
+    width: 140px;
+    height: 60px;
+    border-radius: 50px;
+    box-shadow: 2px 5px #D9D9D9;
+}
+.footer
+{
+    margin-top: 40px;
+}
+.footer_top
+{
+    background-color: black;
+    opacity: 0.9;
+    width:auto;
+    height: 35vh;
+    display: flex;
+    color: white;
+    padding-top: 20px;
+}
+.footer_bottom
+{
+    background-color: #379FD9;
+    width:auto;
+    height: 8vh;
+    color: white;
+}
+.P1
+{
+    width: 25vw;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.P1 img
+{
+    width: 250px;
+    height: 100px;
+    padding-bottom: 10px;
+    padding: 10px;
+}
+.P2{
+    width: 25vw;
+    padding-left: 40px;
+}
+.P2 ul
+{
+    list-style-type: none;
+}
+.P3
+{
+    width: 25vw;
+}
+.P3 ul
+{
+    list-style-type: none;
+}
+.P4
+{
+    width: 25vw;
+}
+.footer_bottom
+{
+    display: flex;
+    justify-content: space-between;
+}
+.C1
+{
+    display: flex;
+    padding: 15px;
+}
+.C2{
+    display: flex;
+    padding: 15px;
+}
+.C2 p
+{
+    border-right: 2px solid white;
+    height: 25px;
+    padding-right: 10px;
+}
+.C2 img
+{
+    padding-left: 5px;
+}
